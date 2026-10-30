@@ -1,0 +1,11 @@
+KATTERUMS JAKTLAG v2.5.26
+
+Bas: fungerande v2.5.25.
+
+Rattningar:
+- Hemsidans chattruta hamtar de senaste molnmeddelandena nar Hem oppnas.
+- Vem skriver valjs fran aktiva medlemmar, inloggad Viewer eller Annan an medlem.
+- Annan an medlem visar ett obligatoriskt namnfalt.
+- Befintlig Supabase-tabell messages fran v2.5.25 anvands.
+- Ingen ny SQL behovs.
+- Observationer, kalender, jakter och statistik ar oforandrade.
